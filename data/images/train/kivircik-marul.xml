@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kıvırcık</folder>
+	<filename>kivircik-marul.png</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\kıvırcık\kivircik-marul.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>100</ymin>
+			<xmax>549</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

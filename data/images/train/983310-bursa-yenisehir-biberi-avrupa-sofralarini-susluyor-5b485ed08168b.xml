@@ -1,0 +1,26 @@
+<annotation>
+	<folder>biber</folder>
+	<filename>983310-bursa-yenisehir-biberi-avrupa-sofralarini-susluyor-5b485ed08168b.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\biber\983310-bursa-yenisehir-biberi-avrupa-sofralarini-susluyor-5b485ed08168b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>10</ymin>
+			<xmax>239</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

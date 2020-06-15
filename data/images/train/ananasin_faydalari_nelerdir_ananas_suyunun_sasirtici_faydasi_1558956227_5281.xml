@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ananas</folder>
+	<filename>ananasin_faydalari_nelerdir_ananas_suyunun_sasirtici_faydasi_1558956227_5281.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\ananas\ananasin_faydalari_nelerdir_ananas_suyunun_sasirtici_faydasi_1558956227_5281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>45</ymin>
+			<xmax>676</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>karpuz</folder>
+	<filename>image.jpeg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\karpuz\image.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>50</ymin>
+			<xmax>143</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>armut</folder>
+	<filename>image16.jpeg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\armut\image16.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>309</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pear</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>23</ymin>
+			<xmax>200</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

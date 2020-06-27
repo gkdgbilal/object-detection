@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ananas</folder>
+	<filename>8a94b89c-abd1-4546-b70e-2dcd012ac8e0_size570x432.jpg</filename>
+	<path>C:/Users/GOKDAG/Desktop/Dataset/ananas/8a94b89c-abd1-4546-b70e-2dcd012ac8e0_size570x432.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>202</ymin>
+			<xmax>398</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

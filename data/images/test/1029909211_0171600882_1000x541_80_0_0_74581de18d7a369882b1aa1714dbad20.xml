@@ -1,0 +1,26 @@
+<annotation>
+	<folder>karpuz</folder>
+	<filename>1029909211_0171600882_1000x541_80_0_0_74581de18d7a369882b1aa1714dbad20.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\karpuz\1029909211_0171600882_1000x541_80_0_0_74581de18d7a369882b1aa1714dbad20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>541</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>721</xmin>
+			<ymin>16</ymin>
+			<xmax>991</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>patlıcan</folder>
+	<filename>5e37d059c03c0e1d6815a0f2.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\patlıcan\5e37d059c03c0e1d6815a0f2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eggplant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>21</ymin>
+			<xmax>750</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

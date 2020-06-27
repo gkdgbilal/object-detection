@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kıvırcık</folder>
+	<filename>plantistanbul-10-gr-marul-kivircik-toros-dalgasi-tohumu_69893101.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\kıvırcık\plantistanbul-10-gr-marul-kivircik-toros-dalgasi-tohumu_69893101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>34</ymin>
+			<xmax>221</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>salatalık</folder>
+	<filename>euro-flora-yapay-sebze-salatalik-18-cm-1.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\salatalık\euro-flora-yapay-sebze-salatalik-18-cm-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>472</ymin>
+			<xmax>1260</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+</annotation>

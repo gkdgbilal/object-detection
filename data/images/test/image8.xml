@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ayva</folder>
+	<filename>image8.jpeg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\ayva\image8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quince</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>37</ymin>
+			<xmax>175</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

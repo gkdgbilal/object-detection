@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayısı</folder>
+	<filename>5c8d7f0a45d2a06b40afea6d.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\kayısı\5c8d7f0a45d2a06b40afea6d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>427</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>81</ymin>
+			<xmax>344</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

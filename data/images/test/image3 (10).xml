@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kuru soğan</folder>
+	<filename>image3.jpeg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\kuru soğan\image3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>67</ymin>
+			<xmax>184</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

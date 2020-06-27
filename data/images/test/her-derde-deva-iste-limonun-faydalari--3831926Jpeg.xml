@@ -1,0 +1,26 @@
+<annotation>
+	<folder>limon</folder>
+	<filename>her-derde-deva-iste-limonun-faydalari--3831926Jpeg.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\limon\her-derde-deva-iste-limonun-faydalari--3831926Jpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>12</ymin>
+			<xmax>472</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

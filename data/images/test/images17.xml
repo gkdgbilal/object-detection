@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kavun</folder>
+	<filename>images17.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\kavun\images17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>12</ymin>
+			<xmax>62</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

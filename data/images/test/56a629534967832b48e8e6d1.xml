@@ -1,0 +1,26 @@
+<annotation>
+	<folder>limon</folder>
+	<filename>56a629534967832b48e8e6d1.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\limon\56a629534967832b48e8e6d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>124</ymin>
+			<xmax>129</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

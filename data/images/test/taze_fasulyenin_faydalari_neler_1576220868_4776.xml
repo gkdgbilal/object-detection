@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fasulye</folder>
+	<filename>taze_fasulyenin_faydalari_neler_1576220868_4776.jpg</filename>
+	<path>C:\Users\GOKDAG\Desktop\Dataset\fasulye\taze_fasulyenin_faydalari_neler_1576220868_4776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Beans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>60</ymin>
+			<xmax>540</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
